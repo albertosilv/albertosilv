@@ -1,8 +1,7 @@
-### Hi there 👋
+### Welcome, my friend 👋
 
-albertosilv/albertosilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a full stack developer, currently member of CodeX Jr, and computer science student at Federal University of Campina Grande.
+Computer Technician - IFPB (2017-2019)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
