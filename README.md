@@ -1,4 +1,4 @@
-### Welcome, my friend 👋
+### Welcome 👋
 
 I'm a full stack developer, currently member of CodeX Jr, and computer science student at Federal University of Campina Grande.
 Computer Technician - IFPB (2017-2019)
