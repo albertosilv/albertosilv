@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/56003521/93805566-5005d780-fc1e-11ea-81ab-13e9d0ea569e.png" width="350"/>
 
-I'm a full stack developer, currently member of CodeX Jr, and computer science student at Federal University of Campina Grande.
+I'm a full stack developer, currently member of CodeX Jr, and Computer Science student at Federal University of Campina Grande.
 Computer Technician - IFPB (2017-2019)
 
 
