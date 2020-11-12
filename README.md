@@ -6,7 +6,7 @@ I'm a full stack developer, currently member of CodeX Jr, and Computer Science s
 Computer Technician - IFPB (2017-2019)
 
 
-- 🔭 I’m currently working on developing the Chat for the Talvane Project and developing the responsive front end of the UFCG Courses
+- 🔭 I’m currently working on the development of a game called Friends Death for the programming discipline I  and on the development of the responsive front end of the UFCG Course
 - 🌱 I’m currently learning Angular e Django
 - 🤔 I’m looking for help with Angular
 
